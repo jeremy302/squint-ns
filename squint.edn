@@ -1,0 +1,5 @@
+{:paths ["server/clj"]
+ :output-dir "server"
+ :extension ".mjs"
+ ;; :copy-resources [".csv" ".xlsx"]
+ }
